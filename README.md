@@ -1,2 +1,2 @@
-# TownBuilderGame
-Unity desktop game where the player builds and defends a town.
+# PocketPetGame
+Unity application where the player raises a virtual pet.
